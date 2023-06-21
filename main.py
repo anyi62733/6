@@ -6,6 +6,9 @@ from zhdate import ZhDate
 import sys
 import os
 
+def get_color():
+    # 获取白色
+    return "white"
 
 def get_access_token():
     # appId
